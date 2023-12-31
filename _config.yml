@@ -1,10 +1,10 @@
-baseurl: /starter
+baseurl: /prasvasa
 permalink: pretty
 markdown: kramdown
 prose:
   rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  siteurl: 'http://prasvasa.github.io/prasvasa/'
+  relativeLinks: 'http://prasvasa.github.io/prasvasa/links.jsonp'
   media: 'media'
   metadata:
     _posts:
